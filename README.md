@@ -58,14 +58,7 @@
 
 ---
 
-# 🏆 GitHub Trophy
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tuna7-1&theme=algolia&no-frame=true&row=1&column=6"/>
-</p>
-
-
----
 
 <p align="center">
 <i>"Never stop learning."</i>
