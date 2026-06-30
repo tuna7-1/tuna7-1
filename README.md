@@ -64,23 +64,6 @@
 <img src="https://github-profile-trophy.vercel.app/?username=tuna7-1&theme=algolia&no-frame=true&row=1&column=6"/>
 </p>
 
----
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://facebook.com/tuna0701">
-<img src="https://skillicons.dev/icons?i=facebook" height="48"/>
-</a>
-
-&nbsp;&nbsp;&nbsp;
-
-<a href="mailto:mway5852@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
